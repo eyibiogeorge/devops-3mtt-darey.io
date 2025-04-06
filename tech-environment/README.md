@@ -6,15 +6,15 @@ Download vscode: Go to [visual studio website](https://code.visualstudio.com/dow
 
 click on windows icon
 
-![](/img/1.%20vscode%20download.JPG)
+<img src="img/1.%20vscode%20download.JPG" width="800: />![](img/1.%20vscode%20download.JPG)
 
 click on install and follow through and click finished
 
-![](/img/2.%20install.JPG)
+![](img/2.%20install.JPG)
 
 Lauch VScode: search for vscode on windows app search and launch app.
 
-![](/img/3.%20lunch%20vscode.JPG)
+![](img/3.%20lunch%20vscode.JPG)
 
 
 ## 2. Git Installation on Windows
