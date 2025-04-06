@@ -6,7 +6,7 @@ Download vscode: Go to [visual studio website](https://code.visualstudio.com/dow
 
 click on windows icon
 
-<img src="img/1.%20vscode%20download.JPG" width="800: />![](img/1.%20vscode%20download.JPG)
+![](img/1.%20vscode%20download.JPG)
 
 click on install and follow through and click finished
 
@@ -23,68 +23,68 @@ Lauch VScode: search for vscode on windows app search and launch app.
 
 click on download to download the Git installer for windows.
 
-![](/img/4.%20git%20download.png)
+![](img/4.%20git%20download.png)
 
 launch the downloaded git installer, click next and select the recommended options
 
-![](/img/5.%20launch%20git%20installer.png)
+![](img/5.%20launch%20git%20installer.png)
 
 click on install to install git
 
-![](/img/6.%20install.png)
+![](img/6.%20install.png)
 
 click on finish
 
-![](/img/7.%20finish.png)
+![](img/7.%20finish.png)
 
 
 from start menu search for git and launch app
 
-![](/img/8.%20launch%20git.png)
+![](img/8.%20launch%20git.png)
 
-## Virtual Box
+## 3. Virtual Box
 
 download virtual box for windows: 
 [Go to oracle virtual box website](https://www.virtualbox.org/wiki/Downloads)
 
 
-![](/img/9.%20download%20virtualbox.png)
+![](img/9.%20download%20virtualbox.png)
 
 select windows hosts
 
 locate the downloaded .exe file, double-click to run the installer.
 
-![](/img/10.%20virtual%20box%20installation%20wizard.png)
+![](img/10.%20virtual%20box%20installation%20wizard.png)
 
 click on next, select all recommended options and click on install
 
-![](/img/11.%20install%20virtualbox.png)
+![](img/11.%20install%20virtualbox.png)
 
 click on finish
 
-![](/img/12.%20finish.png)
+![](img/12.%20finish.png)
 
 launch virtual box after installation
 
-![](/img/13.%20launch%20virtualbox.png)
+![](img/13.%20launch%20virtualbox.png)
 
 Create a New Virtual Machine and configure the virtual Machine
 
-![](/img/15.%20config%20virtualbox%20for%20ubuntu%20os.PNG)
+![](img/15.%20config%20virtualbox%20for%20ubuntu%20os.PNG)
 
 Create a virtual hard disk; File Location and Size; Mount Ubuntu ISO and Install ubuntu
 
-![](/img/17.config%20summary.PNG)
+![](img/17.config%20summary.PNG)
 
 launch ubuntu
 
-![](/img/18.%20launch%20ubuntu.PNG)
+![](img/18.%20launch%20ubuntu.PNG)
 
-## Github account
+## 4. Github account
 
 - Visit the GitHub Website: [go to github website](https://github.com/)
 
-![](/img/19.%20Github%20signup.PNG)
+![](img/19.%20Github%20signup.PNG)
     
   - Sign Up
   - Enter Your Information
@@ -92,7 +92,7 @@ launch ubuntu
   - Complete the CAPTCHA
   - Choose a Plan
 
-![](/img/20.%20github%20login.PNG)
+![](img/20.%20github%20login.PNG)
 
 ## AWS Account
 
@@ -107,10 +107,10 @@ Visit teh AWS free Tier page: [AWS website](https://aws.amazon.com/free/?trk=99f
 - Wait for approval
 - Access the AWS Management Console
 
-![](/img/21.%20aws%20create%20account.PNG)
+![](img/21.%20aws%20create%20account.PNG)
 
 signin as root user and login to aws console
 
-![](/img/22.%20root%20signin.PNG)
+![](img/22.%20root%20signin.PNG)
 
-![](/img/23.%20aws%20console.PNG)
+![](img/23.%20aws%20console.PNG)
