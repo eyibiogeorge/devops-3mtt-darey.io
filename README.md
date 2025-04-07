@@ -1,1 +1,1 @@
-# Darey.io mini project and Capstone project
+# Darey.io mini and Capstone project
