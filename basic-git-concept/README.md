@@ -38,4 +38,8 @@ merge *add-contact-info* to *main*
 
 ![](img/8.%20merge-add-info.PNG)
 
+file push to github
+
+![](img/9.%20github%20dashboard.PNG)
+
 
