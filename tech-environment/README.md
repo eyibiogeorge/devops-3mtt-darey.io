@@ -37,6 +37,10 @@ click on finish
 
 ![](img/7.%20finish.png)
 
+- git version
+
+![](img/7b.%20git%20version.PNG)
+
 
 from start menu search for git and launch app
 
