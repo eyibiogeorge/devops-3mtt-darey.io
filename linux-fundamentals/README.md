@@ -1,5 +1,22 @@
 # Linux Fundamental Mini Project
 
+```Linux is a free, open-source operation system similar to windows or macOS, but its more widely use for servers and supercomputers. Linux runs on a wide range devices, from desktops to smartphones and powers much of the internets infrastructure.```
+
+## Linux Distributions
+
+Linux distributions, often referred to as ***distros,*** are different flavours of the Linux opereating systems built using the Linux kernel.
+
+## Example of Linux Distros
+
+- Ubuntu
+
+- CentOS
+
+- Debian
+
+- Fedora
+
+
 - login to aws console
 
 ![](img/1.%20aws%20sign-in.PNG)
