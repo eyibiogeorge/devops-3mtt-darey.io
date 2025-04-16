@@ -10,10 +10,8 @@ Single-line comments in Bash start with the `#` symbol. Anything following this 
 
 ![](img/1.%20single%20line%20comment.PNG)
 
-![](img/2.%20result%20of%20single%20line%20comment.PNG)
 
 ### Using Multiple Single-Line Comments:
 
 ![](img/3.%20multi-line%20comments.PNG)
 
-![](img/4.%20result%20of%20multi-line%20comment.PNG)
