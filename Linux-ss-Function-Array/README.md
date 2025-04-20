@@ -12,7 +12,7 @@ function_name() {"\n    # Function body\n    # You can place any commands or log
 #!/bin/bash
 
 # Checking the number of arguments
-if [ "$#" -ne 0 ]; then
+if [ "$#" -eq 0 ]; then
     echo "Usage: $0 <environment>"
     exit 1
 fi
@@ -40,7 +40,7 @@ fi
 ENVIRONMENT=$1
 
 check_num_of_args() {
-if [ "$#" -ne 0 ]; then    
+if [ "$#" -eq 0 ]; then    
 echo "Usage: $0 <environment>"  
 exit 1
 fi
@@ -114,7 +114,7 @@ Syntax:
 ENVIRONMENT=$1
 
 check_num_of_args() {
-    if [ "$#" -ne 0 ]; then    
+    if [ "$#" -eq 0 ]; then    
         echo "Usage: $0 <environment>"  
         exit 1
     fi
