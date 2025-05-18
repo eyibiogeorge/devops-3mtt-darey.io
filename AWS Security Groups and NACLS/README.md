@@ -106,13 +106,23 @@ EC2 instance use in hosting tinitini website
 
 ![](img/1.%20EC2%20dashboard.PNG)
 
+Security Group, inbound rules
+
 ![](img/2.%20Security%20group%20inbound%20rule.PNG)
+
+Security Group, outbound rules
 
 ![](img/3.%20security%20group%20outbound%20rules.PNG)
 
+server public ip address
+
 ![](img/4.%20public%20ip%20address.PNG)
 
+Site can't be reached
+
 ![](img/5.%20web%20site%20can't%20be%20reached.PNG)
+
+Created a security group
 
 ![](img/6.%20create%20security%20group.PNG)
 
@@ -120,28 +130,54 @@ EC2 instance use in hosting tinitini website
 
 ![](img/8.%20select%20http.PNG)
 
+Attached security group to EC2
+
 ![](img/9.%20click%20on%20action.PNG)
 
 ![](img/10.%20change%20security%20group.PNG)
 
 ![](img/11.%20new%20sg%20added.PNG)
 
+copy the public ip again and run it
+
 ![](img/12.%20try%20the%20public%20ip%20address%20again.PNG)
 
 ![](img/13.%20it%20works.PNG)
 
+display outbound rules
+
 ![](img/14.%20outbound%20rules.PNG)
 
+delete outbound rules
+
 ![](img/15.%20delete%20outbound%20rules.PNG)
+
+outbound rules deleted
 ![](img/16.%20no%20outbound%20rules.PNG)
+
+Webpage still work, outbound rules doesn't affect the web page
+
 ![](img/17.%20it%20works.PNG)
 
+Edit inbound rules
 ![](img/18.%20edit%20inbound%20rules.PNG)
+
+delete inbound rule
+
 ![](img/19.%20delete%20inbound%20rules.PNG)
+
+display no inbound rules
+
 ![](img/20.%20no%20inbound%20rule.PNG)
+
+webpage not found
+
 ![](img/21.%20webpage%20unavailable.PNG)
+
 ![](img/22.%20edit%20outbound%20rules.PNG)
+
 ![](img/23.%20http%20selected.PNG)
+
 ![](img/24.%20traffic%20is%20going%20out%20via%20http.PNG)
 
 ### Hands-on Network Access Control List (NACL)
@@ -152,21 +188,45 @@ EC2 instance use in hosting tinitini website
 
 - Adjust the outbound rules to allow traffic to all CIDRs.
 
+Navigate to VPC
+
 ![](img/25.%20search%20for%20vpc.PNG)
+
+Click on NACL and Create NACL
+
 ![](img/26.%20create%20NACLs.PNG)
+
 ![](img/27.%20NACL%20details.PNG)
+
+Display NACL inbound rules
+
 ![](img/28.%20nacl%20inbound%20rules.PNG)
+
+Display NACL outbound rules
+
 ![](img/29.%20nacl%20outbound%20rules.PNG)
+
+Edit NACL inbound rules
+
 ![](img/30.%20edit%20nacl%20inbound%20rules.PNG)
+
 ![](img/31.%20add%20new%20rule.PNG)
+
+Associate subnet to NACL
+
 ![](img/32.%20edit%20subnet%20association.PNG)
 ![](img/33.%20no%20subnet%20association.PNG)
 ![](img/34.%20associate%20with%20subnet.PNG)
+
+Subnet successfully assocaited
+
 ![](img/35.%20successfully%20associated.PNG)
 ![](img/36.%20cant%20reached%20site.PNG)
 ![](img/37.%20all%20inbound%20rules.PNG)
 ![](img/38.%20edit%20outbound%20rules.PNG)
 ![](img/39.%20allow%20all%20traffic.PNG)
+
+![](img/17.%20it%20works.PNG)
 
 So we are unable to access the website. why? Even if we have allowed inbound traffic for HTTP in security group.
 
