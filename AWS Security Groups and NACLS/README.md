@@ -160,6 +160,7 @@ Webpage still work, outbound rules doesn't affect the web page
 ![](img/17.%20it%20works.PNG)
 
 Edit inbound rules
+
 ![](img/18.%20edit%20inbound%20rules.PNG)
 
 delete inbound rule
@@ -215,16 +216,28 @@ Edit NACL inbound rules
 Associate subnet to NACL
 
 ![](img/32.%20edit%20subnet%20association.PNG)
+
 ![](img/33.%20no%20subnet%20association.PNG)
+
 ![](img/34.%20associate%20with%20subnet.PNG)
 
 Subnet successfully assocaited
 
 ![](img/35.%20successfully%20associated.PNG)
+
 ![](img/36.%20cant%20reached%20site.PNG)
+
 ![](img/37.%20all%20inbound%20rules.PNG)
+
 ![](img/38.%20edit%20outbound%20rules.PNG)
+
 ![](img/39.%20allow%20all%20traffic.PNG)
+
+![](img/40.PNG)
+
+![](img/41.PNG)
+
+![](img/42.PNG)
 
 ![](img/17.%20it%20works.PNG)
 
