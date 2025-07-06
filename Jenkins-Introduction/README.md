@@ -273,3 +273,8 @@ Lets connect jenkins with github
 ![](img/18.%20add%20webhooks.png)
 ![](img/19.%20connect%20jenkins%20to%20github.png)
 ![](img/18.%20github%20webhook.png)
+
+## Jenkins Pipeline Job
+
+A **Jenkins Pipeline job** is a specialized job in Jenkins that defines a series of automated steps (called a pipeline) to **build, test, and deploy** code. It’s written as code using the **Pipeline DSL (Domain Specific Language)**, typically in a file called `Jenkinsfile.`
+
