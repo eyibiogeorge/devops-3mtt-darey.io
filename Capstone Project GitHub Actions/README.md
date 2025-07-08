@@ -11,7 +11,7 @@ The goals is to automate the integration and deployment process for both compone
 
 ### Task 1: Project Setup (GitHub Account)
 1. I login to my GitHub Account and click on **Repository** then click on **New** to create a new remote repository.
-![1. New Repository](./IMG/1.%20New%20Repository.png)
+![1. New Repository](IMG/1.%20GitHub%20Account.png)
 
 2. Then I name the new repository **ecommerce-platform** and I make sure to make it public, then click on **Create repository**.
 ![2. Ecommerce-Platform](./IMG/2.%20Ecommerce-Platform.png)
